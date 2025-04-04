@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ibad Hussain</h1>
 
-![Project screenshot](./assets/banner.png)
+![Project screenshot](./asssets/banner.png)
 
 <h3 align="center">Innovative Fulxxxxxxxxl Stack Developer with a Problem-Solving Mindset</h3>
 
