@@ -18,6 +18,8 @@
     <img src="./assets/mongoose.png" width="50px"/>
     <img src="./assets/python.png" width="50px"/>
     <img src="./assets/java.png" width="50px"/>
+    
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mongoose,python,java" />
 </p>
 <div>    
     <span style="margin-right:150px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40" /></span>
