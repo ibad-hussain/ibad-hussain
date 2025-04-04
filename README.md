@@ -8,15 +8,15 @@
 
 ## Languages and Tools
 <div style="display: flex; gap: 20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="html" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="html" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="html" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="html" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" alt="html" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="html" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" alt="html" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="html" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40" style="margin-right: 5px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="html" width="40" height="40" style="margin-right: 5px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="html" width="40" height="40" style="margin-right: 5px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="html" width="40" height="40" style="margin-right: 5px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="html" width="40" height="40" style="margin-right: 5px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" alt="html" width="40" height="40" style="margin-right: 5px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="html" width="40" height="40" style="margin-right: 5px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" alt="html" width="40" height="40" style="margin-right: 5px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="html" width="40" height="40" style="margin-right: 5px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="html" width="40" height="40"/>
 </div>
 
@@ -33,6 +33,6 @@
 
 ## Profile Stats
 <div style="display:flex; justify-content:center; align-items:center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibad-hussain&" alt="ibad-hussain" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibad-hussain&theme=dark&hide_border=false&border_radius=5&order=3" alt="ibad-hussain" style="margin-right: 15px;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibad-hussain&show_icons=true&locale=en&layout=compact" alt="ibad-hussain" />
 </div>
