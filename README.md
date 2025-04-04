@@ -8,9 +8,15 @@
 
 ## Languages and Tools
 <div style="display: flex; gap: 20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    <div style="display:flex; justify-content:center; align-items:center; width:50px; height:50px; background-color:crimson">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="java" width="40" height="40" />
+    </div>
+    <div style="display:flex; justify-content:center; align-items:center; width:50px; height:50px; background-color:crimson">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="java" width="40" height="40" />
+    </div>
+    <div style="display:flex; justify-content:center; align-items:center; width:50px; height:50px; background-color:crimson">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="java" width="40" height="40" />
+    </div>
 
 </div>
 
@@ -32,7 +38,7 @@
 <br>
 
 ## Profile Stats
-<div style="display: flex; gap: 20px; justify-content: center;">
+<div style="display:flex; gap:20px; justify-content:center; align-items:center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibad-hussain&" alt="ibad-hussain" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibad-hussain&show_icons=true&locale=en&layout=compact" alt="ibad-hussain" />
 </div>
