@@ -8,7 +8,7 @@
 
 ## Languages and Tools
 <div style="display: flex; gap: 20px;">
-    <div style="display:flex; justify-content:center; align-items:center; width:50px; height:50px; background-color:crimson">
+    <div style="display:flex; justify-content:center; align-items:center; width:50px; height:50px; background-color:crimson; border:2px solid black;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="java" width="40" height="40" />
     </div>
     <div style="display:flex; justify-content:center; align-items:center; width:50px; height:50px; background-color:crimson">
