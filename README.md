@@ -18,7 +18,6 @@
     <img src="./assets/mongoose.png" width="50px"/>
     <img src="./assets/python.png" width="50px"/>
     <img src="./assets/java.png" width="50px"/>
-    
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mongoose,python,java" />
 </p>
 <div>    
