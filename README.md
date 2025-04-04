@@ -1,4 +1,4 @@
-## <h1 align="center">Ibad Hussain: A Full Stack Developer with a Problem-Solving Mindset</h1>
+<h2 align="center">Ibad Hussain: A Full Stack Developer with a Problem-Solving Mindset</h2>
 
 ![Banner](./assets/banner.png)
 
@@ -32,7 +32,7 @@
 <br>
 
 ## Profile Stats
-<div style="display:flex; gap:20px; justify-content:center; align-items:center">
+<div style="display:flex; justify-content:center; align-items:center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibad-hussain&" alt="ibad-hussain" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibad-hussain&show_icons=true&locale=en&layout=compact" alt="ibad-hussain" />
 </div>
