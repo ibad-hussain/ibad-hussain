@@ -7,18 +7,19 @@
 <br>
 
 ## Languages and Tools
-<p style="display:flex; justify-content:start; align-items:center; gap:10px">
+<p align="left">
     <img src="./assets/html.png" width="50px"/>
     <img src="./assets/css.png" width="50px"/>
     <img src="./assets/javascript.png" width="50px"/>
     <img src="./assets/reactjs.png" width="50px"/>
     <img src="./assets/nodejs.png" width="50px"/>
-    <img src="./assets/expressjs.png" width="50px"/>
+    <img src="./assets/expressjs.png" width="50px" margin="30px"/>
     <img src="./assets/mongodb.png" width="50px"/>
     <img src="./assets/mongoose.png" width="50px"/>
     <img src="./assets/python.png" width="50px"/>
     <img src="./assets/image.png" width="50px"/>
     <img src="./assets/image-1.png" width="50px"/>
+    <img src="./assets/image-2.png" width="50px"/>
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mongoose,python,java" />
 </p>
 <div>    
