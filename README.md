@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ibad Hussain</h1>
-<h3 align="center">Innovative Full Stack Developer with a Problem-Solving Mindset</h3>
-
----
+<div align="center">
+    <h1>Hi 👋, I'm Ibad Hussain</h1>
+    <h3>Innovative Full Stack Developer with a Problem-Solving Mindset</h3>
+</div>
 
 ![Banner](./assets/banner.png)
 
