@@ -33,6 +33,6 @@
 
 ## Profile Stats
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibad-hussain&theme=dark&hide_border=true" alt="ibad-hussain" />&nbsp;
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ibad-hussain&theme=dark&hide_border=true" alt="ibad-hussain" />&nbsp;
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibad-hussain&show_icons=true&locale=en&layout=compact&theme=dark" alt="ibad-hussain" />
 </div>
