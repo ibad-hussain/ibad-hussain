@@ -1,14 +1,6 @@
-<div align="center">
-    <p><b>Hi 👋, I'm Ibad Hussain</b></p>
-    <p>Innovative Full Stack Developer with a Problem-Solving Mindset</p>
-</div>
-
-<br>
-
-
 ![Banner](./assets/banner.png)
 
-Hello, I’m Ibad Hussain, a passionate Full Stack Developer with a strong focus on the MERN stack (MongoDB, ExpressJS, ReactJS, NodeJS). I’m currently pursuing a Bachelor's degree in Computer Science at the University of Karachi, where I’m honing my skills in both frontend and backend development.
+<h4>Hello, I’m Ibad Hussain, a passionate Full Stack Developer with a strong focus on the MERN stack (MongoDB, ExpressJS, ReactJS, NodeJS). I’m currently pursuing a Bachelor's degree in Computer Science at the University of Karachi, where I’m honing my skills in both frontend and backend development.</h4>
 
 <br>
 
@@ -27,7 +19,7 @@ Hello, I’m Ibad Hussain, a passionate Full Stack Developer with a strong focus
 <br>
 
 ## Profile Stats
-<div style="align:center; display:flex;">
-    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibad-hussain&show_icons=true&locale=en&layout=compact" alt="ibad-hussain" /></p>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibad-hussain&" alt="ibad-hussain" /></p>
+<div style="display: flex; gap: 10px; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibad-hussain&show_icons=true&locale=en&layout=compact" alt="ibad-hussain" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibad-hussain&" alt="ibad-hussain" />
 </div>
