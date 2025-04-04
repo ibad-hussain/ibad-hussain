@@ -8,12 +8,12 @@
 
 ## Languages and Tools
 <p align="left">
-    <img src="./assets/html.png" width="50px"/>
-    <img src="./assets/css.png" width="50px"/>
-    <img src="./assets/javascript.png" width="50px"/>
+    <img src="./assets/html.png" width="50px"/>&nbsp;
+    <img src="./assets/css.png" width="50px"/>&nbsp;&nbsp;
+    <img src="./assets/javascript.png" width="50px"/>&nbsp;&nbsp;&nbsp;
     <img src="./assets/reactjs.png" width="50px"/>
     <img src="./assets/nodejs.png" width="50px"/>
-    <img src="./assets/expressjs.png" width="50px" style="margin:30px;"/>
+    <img src="./assets/expressjs.png" width="50px"/>
     <img src="./assets/mongodb.png" width="50px"/>
     <img src="./assets/mongoose.png" width="50px"/>
     <img src="./assets/python.png" width="50px"/>
@@ -40,7 +40,7 @@
 ## Connect with me
 <p align="left">
     <a href="https://linkedin.com/in/ibadhussain/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ibadhussain/" height="30" width="40" /></a>
-    <a href="https://facebook.com/ibad hussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ibad hussain" height="30" width="40" /></a>
+    <a href="https://www.facebook.com/share/161mizmCH4/?mibextid=qi2Omg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ibad hussain" height="30" width="40" /></a>
     <a href="https://instagram.com/ibadhussain22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ibadhussain22" height="30" width="40" /></a>
 </p>
 
