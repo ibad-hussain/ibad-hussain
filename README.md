@@ -13,7 +13,7 @@
     <img src="./assets/javascript.png" width="50px"/>
     <img src="./assets/reactjs.png" width="50px"/>
     <img src="./assets/nodejs.png" width="50px"/>
-    <img src="./assets/expressjs.png" width="50px" margin="30px"/>
+    <img src="./assets/expressjs.png" width="50px" style="margin:30px;"/>
     <img src="./assets/mongodb.png" width="50px"/>
     <img src="./assets/mongoose.png" width="50px"/>
     <img src="./assets/python.png" width="50px"/>
