@@ -7,6 +7,9 @@
 <br>
 
 ## Languages and Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mongoose,python,java" />
+</p>
 <div>    
     <span style="margin-right:150px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40" /></span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="html" width="40" height="40" style="margin-right:150px;" />
@@ -33,6 +36,6 @@
 
 ## Profile Stats
 <div style="display:flex; justify-content:center; align-items:center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibad-hussain&" alt="ibad-hussain" style="margin-right: 15px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibad-hussain&show_icons=true&locale=en&layout=compact" alt="ibad-hussain" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibad-hussain&theme=dark" alt="ibad-hussain" style="margin-right: 15px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibad-hussain&show_icons=true&locale=en&layout=compact&theme=dark" alt="ibad-hussain" />
 </div>
