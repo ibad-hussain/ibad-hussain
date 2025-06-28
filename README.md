@@ -2,7 +2,7 @@
 
 ![Banner](./assets/banner.png)
 
-<h4>Hello, I’m Ibad Hussain, a passionate Full Stack Developer with a strong focus on the MERN stack (MongoDB, ExpressJS, ReactJS, NodeJS). I’m currently pursuing a Bachelor's degree in Computer Science at the University of Karachi, where I’m honing my skills in both frontend and backend development.</h4>
+<h4>Hello, I’m Ibad Hussain, a passionate Full Stack Developer with a strong focus on the MERN stack (MongoDB, ExpressJS, ReactJS, NodeJS) and NextJS development. I’m currently pursuing a Bachelor's degree in Computer Science at the University of Karachi, honing my skills in both frontend and backend development to build fast, scalable, and user-friendly web applications.</h4>
 
 <br>
 
@@ -16,6 +16,7 @@
     <img src="./assets/expressjs.png" width="50px" />&nbsp;
     <img src="./assets/mongodb.png" width="50px" />&nbsp;
     <img src="./assets/mongoose.png" width="50px" />&nbsp;
+    <img src="./assets/nextjs.png" width="50px" />&nbsp;
     <img src="./assets/python.png" width="50px" />&nbsp;
     <img src="./assets/java.png" width="50px" />
 </p>
