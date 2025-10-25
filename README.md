@@ -8,15 +8,17 @@
 
 ## Languages and Tools
 <p align="left">
-    <img src="./assets/html.png" width="50px" />&nbsp;
-    <img src="./assets/css.png" width="50px" />&nbsp;
-    <img src="./assets/javascript.png" width="50px" />&nbsp;
+    <img src="./assets/nextjs.png" width="50px" />&nbsp;
     <img src="./assets/reactjs.png" width="50px" />&nbsp;
+    <img src="./assets/typescript.png" width="50px" />&nbsp;
     <img src="./assets/nodejs.png" width="50px" />&nbsp;
     <img src="./assets/expressjs.png" width="50px" />&nbsp;
     <img src="./assets/mongodb.png" width="50px" />&nbsp;
     <img src="./assets/mongoose.png" width="50px" />&nbsp;
-    <img src="./assets/nextjs.png" width="50px" />&nbsp;
+    <img src="./assets/socketio.png" width="50px" />&nbsp;
+    <img src="./assets/javascript.png" width="50px" />&nbsp;
+    <img src="./assets/html.png" width="50px" />&nbsp;
+    <img src="./assets/css.png" width="50px" />&nbsp;
     <img src="./assets/python.png" width="50px" />&nbsp;
     <img src="./assets/java.png" width="50px" />
 </p>
