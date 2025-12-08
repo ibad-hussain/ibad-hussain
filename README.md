@@ -26,6 +26,7 @@
     <img src="./assets/vscode.png" width="50px" />&nbsp;
     <img src="./assets/postman.png" width="50px" />&nbsp;
     <img src="./assets/vercel.png" width="50px" />&nbsp;
+    <img src="./assets/vercel1.png" width="50px" />&nbsp;
     <img src="./assets/netlify.png" width="50px" />&nbsp;
     <img src="./assets/figma.png" width="50px" />
 </p>
