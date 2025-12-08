@@ -2,7 +2,7 @@
 
 ![Banner](./assets/banner.png)
 
-<h4>Hello, I’m Ibad Hussain, a passionate Full Stack Developer with a strong focus on the MERN stack (MongoDB, ExpressJS, ReactJS, NodeJS) and NextJS development. I’m currently pursuing a Bachelor's degree in Computer Science at the University of Karachi, honing my skills in both frontend and backend development to build fast, scalable, and user-friendly web applications.</h4>
+<h4>Hello, I’m Ibad Hussain, a passionate Full Stack Developer specializing in MERN stack and Next.js development. I’ve completed my Bachelor’s degree in Computer Science from the University of Karachi, and I love building fast, scalable, and user-friendly web applications across both frontend and backend.</h4>
 
 <br>
 
@@ -11,16 +11,23 @@
     <img src="./assets/nextjs.png" width="50px" />&nbsp;
     <img src="./assets/reactjs.png" width="50px" />&nbsp;
     <img src="./assets/typescript.png" width="50px" />&nbsp;
+    <img src="./assets/javascript.png" width="50px" />&nbsp;
+    <img src="./assets/html.png" width="50px" />&nbsp;
+    <img src="./assets/css.png" width="50px" />&nbsp;
     <img src="./assets/nodejs.png" width="50px" />&nbsp;
     <img src="./assets/expressjs.png" width="50px" />&nbsp;
     <img src="./assets/mongodb.png" width="50px" />&nbsp;
     <img src="./assets/mongoose.png" width="50px" />&nbsp;
     <img src="./assets/socketio.png" width="50px" />&nbsp;
-    <img src="./assets/javascript.png" width="50px" />&nbsp;
-    <img src="./assets/html.png" width="50px" />&nbsp;
-    <img src="./assets/css.png" width="50px" />&nbsp;
     <img src="./assets/python.png" width="50px" />&nbsp;
-    <img src="./assets/java.png" width="50px" />
+    <img src="./assets/java.png" width="50px" />&nbsp;
+    <img src="./assets/git.png" width="50px" />&nbsp;
+    <img src="./assets/github.png" width="50px" />&nbsp;
+    <img src="./assets/vscode.png" width="50px" />&nbsp;
+    <img src="./assets/postman.png" width="50px" />&nbsp;
+    <img src="./assets/vercel.png" width="50px" />&nbsp;
+    <img src="./assets/netlify.png" width="50px" />&nbsp;
+    <img src="./assets/figma.png" width="50px" />
 </p>
 
 <br>
